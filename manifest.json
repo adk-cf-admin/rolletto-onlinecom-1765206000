@@ -1,0 +1,19 @@
+{
+  "name": "Roletto",
+  "short_name": "Roletto",
+  "theme_color": "",
+  "background_color": "#001C2D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765202410-1071a9c03caec92b8.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

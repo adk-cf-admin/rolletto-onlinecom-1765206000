@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://rolletto-online.com/
+Sitemap: https://rolletto-online.com/sitemap.xml

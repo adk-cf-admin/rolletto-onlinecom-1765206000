@@ -1,0 +1,201 @@
+{
+    "en-GB": {
+        "styles": {
+            "bg": "#001C2D",
+            "lang-select-color": "#222829",
+            "bg-light": "#001C2D",
+            "welcome-bonus-bg": "#001C2D",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#00263D",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00131f",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#1EE7A6",
+            "yellow": "#e71d31",
+            "yellow-button": "#1EE7A6",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#001C2D",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#001C2D",
+            "faq-label": "#001C2D",
+            "bg-footer": "#001C2D",
+            "copyright": "#e7e7d5",
+            "starColor": "#e71d31",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Roletto",
+            "title": "Rolletto Casino: Bonuses, Games, Payouts & Security",
+            "description": "Discover the world of gaming with Rolletto! Generous bonuses, fast payouts, top slots, and live casino. Secure transactions, flexible payment methods, and 24\/7 support.\n",
+            "canonical": "rolletto-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/914",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "rolletto-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/915",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/916"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/920",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Roletto Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Rolletto Casino \u2014 Your Guide to Online Gaming",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/921",
+            "imageSizeModifier": 7,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/922",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of slots and table games",
+                "Cryptocurrency support with fast transactions",
+                "Generous bonuses and regular promotions",
+                "Sports and eSports betting available",
+                "Mobile-friendly version without functionality loss",
+                "Cura\u00e7ao license and strong data protection",
+                "Quick registration and user-friendly interface"
+            ],
+            "advantagesAfterText": "Rolletto provides a modern platform with diverse features, from casino games to sports betting. Convenience, security, and game variety make it appealing for both beginners and experienced players.\n",
+            "knowMore": "Know more",
+            "appTitle": "Roletto App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/923",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Roletto App",
+            "mobileGooglePlayImageTitle": "Roletto App",
+            "mobileIosImageTitle": "Roletto App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Roletto",
+                "description1": "Rolletto offers big bonuses and high winning limits. Players enjoy generous promotions and cashback opportunities. This makes gaming highly rewarding and appealing.\n",
+                "items": [
+                    "Bonus up to \u20ac5,500",
+                    "Wins up to \u20ac100,000",
+                    "Cashback up to 5%"
+                ],
+                "description2": "Rolletto is a modern online casino with a wide game selection.\nThe platform combines slots, table games, and live casino.\nPlayers enjoy a user-friendly interface and quick access.\nThe service supports multiple payment methods, including crypto.\nRegistration is simple and takes only a few minutes.\n\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/924",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "The casino offers regular promotions and bonus programs.\nIts security system ensures data and transaction protection.\nThe mobile version allows seamless gaming on the go.\nCustomer support is available 24\/7 for assistance.\nRolletto focuses on comfort and reliability for players."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Rolletto \u2014 a modern casino for passionate players",
+                "description": "<p>\nRolletto is a dynamic online platform that combines gambling and cutting-edge technology. The casino offers a user-friendly interface, fast performance, and access to thousands of gaming options. From classic slots to live dealer games, there is entertainment for every taste.\n<\/p>\n<br>\n<p>\nSpecial attention is given to convenience and security. All transactions are protected by advanced encryption protocols, and the registration process is simple and quick. Players can choose from multiple payment methods, including popular cryptocurrencies, making the service accessible worldwide.\n<\/p>\n<br>\n<p>\nRolletto delights users with generous bonuses and regular promotions that increase winning opportunities. Loyalty programs and special offers make the experience even more rewarding and exciting. The platform is designed to ensure every player feels confident and comfortable.\n<\/p>\n<br>\n<p>\nFor mobile gaming enthusiasts, there is an optimized version of the site that retains all features and usability. This allows players to enjoy the game anytime and anywhere. Customer support is available 24\/7 to resolve any issues promptly and efficiently.\n<\/p>\n<br>\n<p>\nFor mobile gaming enthusiasts, there is an optimized version of the site that retains all features and usability. This allows players to enjoy the game anytime and anywhere. Customer support is available 24\/7 to resolve any issues promptly and efficiently.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at Rolletto\n<\/h3>\n\n<p>\nRolletto offers players a wide range of payment options to make deposits and withdrawals as convenient as possible. Users can choose traditional bank cards such as Visa and MasterCard, as well as popular e-wallets including Skrill and Neteller. For those who prefer modern solutions, cryptocurrency support is available, ensuring fast and secure transactions.\n\n<\/p>\n<br>\n<p>\nThe casino operates with several fiat currencies, including euros, dollars, and British pounds, making the platform accessible to players worldwide. Additionally, cryptocurrency support helps avoid extra fees and speeds up the transfer process. All transactions are processed through secure channels, guaranteeing data and financial safety.\n<\/p>\n<br>\n<p>\nRolletto aims to provide flexibility and comfort for every user by offering a variety of payment tools. Regardless of the chosen method, transactions are executed quickly and reliably, with a security system that meets international standards.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Rules at Rolletto: Conditions and Restrictions\n\n<\/h3>\n\n<p>\nVisiting Rolletto online casino requires compliance with specific rules that ensure fair play and user safety. Players must complete registration and verify their identity to access the platform\u2019s full functionality. All users are required to provide accurate information when creating an account.\n<\/p>\n<br>\n<p>\nThe casino prohibits the use of third-party software that could influence game outcomes. Creating multiple accounts by the same user is also strictly forbidden. Players must respect age restrictions set by their country\u2019s laws and avoid sharing account access with others.\n<\/p>\n<br>\n<p>\nAll financial transactions are processed through secure channels, so users must provide correct payment details for deposits and withdrawals. Violating these rules may result in account suspension and forfeiture of winnings. The platform enforces these conditions to maintain a fair and secure environment.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nRegistration with real personal data\n\n<\/li>\n            <li>\u2022 \nAge and identity verification\n<\/li>\n            <li>\u2022 \nUse of official payment methods only\n\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Restrictions\n<\/h4>\n        <ul>\n            <li>\u2022 \nCreating multiple accounts\n<\/li>\n            <li>\u2022 \nAttempting fraud or money laundering\n\n<\/li>\n       <li>\u2022 \nUsing cheats or third-party software\n\n<\/li>\n            <li>\u2022 \nSharing account access with others\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Security at Rolletto\n<\/h3>\n\n<p>\nRolletto operates under an international Cura\u00e7ao eGaming license, which confirms the legality and transparency of the casino\u2019s activities. This license ensures compliance with fair play standards and protects user interests. All processes on the platform are strictly monitored to guarantee reliability and security.\n<\/p>\n<br>\n<p>\nTo safeguard player data, Rolletto uses advanced SSL encryption, preventing unauthorized access to personal information and financial transactions. All operations are carried out through secure channels, and the security system meets international standards. This gives users confidence in the safety of their funds and privacy.\n\n<\/p>\n<br>\n<p>\nRolletto\u2019s privacy policy provides full control over personal information. The casino does not share data with third parties without user consent and uses it solely to maintain service functionality. Additionally, the platform employs anti-fraud technologies and protection against unauthorized access.\n<\/p>\n<br>\n<p>\nRolletto aims to create a secure gaming environment where every user can enjoy the experience without risk. Modern protection methods and a transparent policy make the casino a trustworthy choice for players worldwide.\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRolletto Customer Support: Channels, Speed, and Service Quality\n\n<\/h3>\n\n<p>\nRolletto\u2019s customer support is designed for quick, clear communication with players. The main contact channels\u2014live chat, email, and phone\u2014let users choose the format that best fits the situation and urgency. Live chat is ideal for instant guidance on-site, email suits detailed requests and document exchange, and phone support helps resolve urgent matters via a direct conversation.\n\n<\/p>\n<br>\n<p>\nResponse times vary by channel: chat typically gets the fastest replies, emails are handled as they arrive, and the phone line aims for immediate connection when agents are available. Service quality focuses on clear instructions, careful data checks, and resolving issues on the first touch whenever possible. If additional verification is needed (for payments or KYC), the agent provides an estimated timeframe and keeps the user informed.\n\n<\/p>\n<br>\n<p>\nTo serve an international audience, support is available in multiple languages. This reduces language barriers and speeds up resolution for account, payout, bonus, or security-related questions. Throughout the conversation, staff can offer step-by-step guidance, links to relevant help sections, and follow-up emails so users stay on track and receive outcomes efficiently.\n\n<\/p>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  Roletto",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRolletto Loyalty Program: Levels, Bonuses, and Conditions\n\n<\/h3>\n\n<p>\nRolletto\u2019s loyalty program is designed to reward active players and make gaming more profitable. It is based on earning points and moving up levels, which unlock exclusive bonuses and privileges. The more you play, the higher your status and the greater the benefits you receive.\n<\/p>\n<br>\n<p>\nRegistration in the program happens automatically after creating an account, so every user can start earning rewards from the first deposit. The system is transparent: points are credited for bets on slots, table games, and live casino. Level progression depends on accumulated points, and bonuses become more generous with each new tier.\n<\/p>\n<br>\n<p>\nPlayers gain access to weekly and monthly promotions, personalized offers, and increased withdrawal limits. Higher loyalty levels provide cashback, extra free spins, and exclusive deposit bonuses, making participation highly rewarding for regular customers.\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nCreate an account on Rolletto\n\n<\/li>\n            <li>\u2022 \nComplete identity verification\n<\/li>\n            <li>\u2022 \nStart placing real-money bets\n\n\n<\/li>\n\n  \n        <\/ul><br>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Program levels and how to reach them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic level: available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver: accumulate a set number of points through betting\n\n<\/li>\n            <li>\u2022 \nGold: active play and regular deposits\n<\/li>\n           <li>\u2022 \nPlatinum: maximum activity and high stakes\n\n\n<\/li>\n       \n\n  \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nWelcome bonuses on initial deposits\n\n<\/li>\n            <li>\u2022 \nWeekly cashback up to 5%\n\n<\/li>\n       <li>\u2022 \nExtra free spins on popular slots\n\n<\/li>\n            <li>\u2022 \nPersonalized deposit bonuses up to 150%\n<\/li>\n              <li>\u2022 \nIncreased withdrawal limits\n<\/li>\n            <li>\u2022 \nExclusive promotions for VIP players\n\n<\/li>\n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRolletto Bonuses and Special Offers: Maximum Opportunities for Players\n\n<\/h3>\n\n<p>\nRolletto provides its users with a wide range of bonuses and special offers that make gaming more exciting and rewarding. The casino focuses on giving every player extra benefits, starting with welcome bonuses and continuing with exclusive promotions for regular customers. In addition to standard deposit bonuses, the platform frequently hosts seasonal events and themed campaigns tied to popular holidays and sports tournaments.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy free spins, cashback, boosted odds for sports betting, and special tournaments with large prize pools. Rolletto also offers jackpots and raffles where users can win significant amounts. All offers come with clear terms and transparent rules, ensuring safe and easy participation.\n<\/p>\n<br>\n<p>\nSeasonal promotions often include extra deposit bonuses, exclusive promo codes, and gifts for active players. Special deals apply not only to slots but also to live casino, table games, and sports betting. This allows every user to find the perfect entertainment format and increase their chances of winning.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain bonuses and offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus:\nUp to 150% on the first deposit + free spins on popular slots.<\/li>\n            <li>\u2022 \nCashback:\nWeekly return up to 5% of lost funds.\n<\/li>\n            <li>\u2022 \nFree Spins:\nComplimentary spins on top slots during promotions.\n\n\n<\/li>\n            <li>\u2022 \nSpecial Tournaments:\nPrize pools up to \u20ac50,000 for active players.\n<\/li>\n\t    <li>\u2022 \nSeasonal Events:\nDeposit bonuses and promo codes for holidays.\n\n\n\n<\/li>\n\t    <li>\u2022 \nJackpots:\nChance to win up to \u20ac100,000 in progressive slots.<\/li>\n\t    <li>\u2022 \nSports Betting Promotions:\nBoosted odds and free bets on major events.\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Rolletto Casino: Top Entertainment for Players\n<\/h3>\n\n<p>\nRolletto offers a huge selection of games to satisfy every player\u2019s taste. The platform features classic slots, modern video slots with unique features, table games, and live casino with real dealers. Each game stands out for its high-quality graphics, engaging mechanics, and the potential for big wins.\n\n<\/p>\n<br>\n<p>\nSlots are the most popular category, offering bonus rounds, free spins, and progressive jackpots. For strategy lovers, table games like roulette, blackjack, and poker provide opportunities to apply skills and tactics. Live casino creates the atmosphere of a real gaming hall, allowing interaction with dealers in real time.\n\n<\/p>\n<br>\n<p>\nAdditionally, Rolletto regularly adds new titles from leading providers, so players can enjoy fresh experiences and participate in themed tournaments. This makes the gaming process diverse and exciting.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Rolletto Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBook of Dead\nClassic slot with Egyptian theme, bonus symbols, and free spins.\n\n\n<\/li>\n            <li>\u2022 \nStarburst\nBright video slot with simple rules and frequent wins.\n<\/li>\n            <li>\u2022 \nSweet Bonanza\nColorful slot featuring multipliers and cascading reels.\n<\/li>\n            <li>\u2022 \nMega Moolah\nLegendary progressive jackpot with chances to win hundreds of thousands.<\/li>\n\t    <li>\u2022 \nEuropean Roulette\nTable game with classic bets and high RTP.\n\n\n<\/li>\n\t    <li>\u2022 \nBlackjack Live\nReal dealer game where strategy matters.\n<\/li>\n\t    <li>\u2022 \nTexas Hold\u2019em Poker\nPopular poker variant for intellectual gameplay fans.<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Rolletto Casino\n<\/h3>\n\n<p> \nRolletto offers flexible betting limits suitable for both beginners and experienced players. Minimum bets allow you to start with a small budget, while maximum bets provide opportunities for big wins. This applies to all game categories: slots, table games, and live casino. With a wide range of stakes, every user can choose a comfortable level of risk and strategy.\n\n<\/p><br>\n<p> \nBelow is a table showing the minimum and maximum bets for popular game categories at Rolletto. These values help players plan their budget and select the right entertainment.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#1EE7A6; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Rolletto Casino: Atmosphere and Unique Shows\n\n<\/h3>\n\n<p>\nRolletto is not just a gaming platform but a space for unforgettable experiences. The casino offers a variety of events and entertainment options that make gameplay more exciting. Special shows and themed campaigns create a festive atmosphere, while participation brings extra bonuses and rewards.\n<\/p>\n<br>\n<p>\nOne of the main highlights is seasonal promotions, held during major holidays and sports events. These campaigns offer exclusive bonuses, free spins, and access to tournaments with large prize pools. Rolletto also hosts virtual live dealer shows, recreating the vibe of a real casino.\n<\/p>\n<br>\n<p>\nFor competitive players, there are slot and table game tournaments, where participants compete for cash prizes and special rewards. These events often include live streams and interactive features, making them even more engaging. Additionally, jackpot draws give players the chance to win impressive sums.\n\n<\/p>\n<br>\n<p>\nRolletto aims to deliver a unique experience for every user, offering not only gambling but full-scale entertainment programs. This makes the platform appealing to those who value excitement, dynamics, and the atmosphere of a real casino.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntertainment and Events<\/h4>\n\n <ul>\n            <li>\u2022 \nLive Dealer Shows:\nReal-time broadcasts with professional hosts and authentic casino vibes.\n<\/li>\n            <li>\u2022 \nSeasonal Promotions and Holidays:\nBonuses, free spins, and promo codes for New Year, Halloween, sports championships.\n<\/li>\n            <li>\u2022 \nSlot Tournaments:\nCompetitions with prize pools up to \u20ac50,000.\n<\/li>\n            <li>\u2022 \nTable Game Tournaments:\nPoker and blackjack events with exclusive rewards.<\/li>\n\t    <li>\u2022 \nJackpot Draws:\nChance to win up to \u20ac100,000 in progressive slots.\n<\/li>\n\t    <li>\u2022 \nInteractive Streams:\nLive broadcasts with games, contests, and gifts for participants.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at Rolletto Casino\n\n<\/h3>\n\n<p>\nRolletto offers convenient and secure withdrawal methods to ensure smooth management of winnings. The platform supports both traditional and modern options, including bank cards, e-wallets, and cryptocurrencies. All transactions are processed through secure channels, guaranteeing data and financial safety.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets and cryptocurrencies are usually the fastest, taking just a few hours. Bank transfers may take from one to five business days due to banking procedures. The casino strives to minimize delays, but final timing depends on the payment method and verification status.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits are set to maintain security and control. The minimum withdrawal amount is around \u20ac20, while maximum limits can reach \u20ac7,500 per week and \u20ac15,000 per month. VIP players may enjoy higher limits. All conditions are transparent and listed in the \u201cCashier\u201d section of the site.\n\n<\/p>\n<br>\n<p>\nRolletto ensures reliability and confidentiality during payouts. SSL encryption and strict security policies make the process safe for every user.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards (Visa, MasterCard):\nTimeframe: 1\u20135 business days.\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller):\nTimeframe: up to 24 hours.\n<\/li>\n            <li>\u2022 \nCryptocurrencies (Bitcoin, Ethereum, Litecoin):\nTimeframe: 1\u201312 hours.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nFast approval for verified accounts.\n\n<\/li>\n            <li>\u2022 \nDelays possible for additional document checks.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum amount: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum: \u20ac7,500 per week, \u20ac15,000 per month.\n<\/li>\n            <li>\u2022 \nVIP players: custom limits.\n\n<\/li>\n    \n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Is verification required for withdrawals?",
+                    "answer": "Yes, verification is mandatory. You need to provide an ID and proof of address for secure transactions.\n"
+                },
+                {
+                    "title": "Can I play for free without a deposit?",
+                    "answer": "Yes, demo versions of most slots are available, but real winnings require a deposit.\n"
+                },
+                {
+                    "title": "How fast are withdrawals processed?",
+                    "answer": "Cryptocurrencies \u2014 up to 12 hours, e-wallets \u2014 up to 24 hours, bank cards \u2014 1\u20135 days.\n"
+                },
+                {
+                    "title": "Can I change my account currency after registration?",
+                    "answer": "No, the account currency is chosen during registration and cannot be changed later.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/925",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Roletto"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-GB",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
